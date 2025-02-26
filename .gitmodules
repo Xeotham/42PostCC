@@ -1,0 +1,3 @@
+[submodule "ReadySetBoole"]
+	path = ReadySetBoole
+	url = git@github.com:Xeotham/ReadySetBoole.git
