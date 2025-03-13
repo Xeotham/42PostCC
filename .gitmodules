@@ -1,3 +1,6 @@
 [submodule "ReadySetBoole"]
 	path = ReadySetBoole
 	url = git@github.com:Xeotham/ReadySetBoole.git
+[submodule "piscinePython"]
+	path = piscinePython
+	url = git@github.com:Xeotham/piscinePython.git
